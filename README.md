@@ -5,4 +5,4 @@
 - This tracker is easy to use and shows the total number of confirmed cases in the country.
 - It also shows state-wise cases in a clean, easy to understand table.
 
-![alt text](https://drive.google.com/file/d/1DRJ7PygvVKuCbgh5MTWHMQt1ZrbRPqTC/view?usp=sharing)
+![image](Covid-19App UI.png)
