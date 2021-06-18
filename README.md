@@ -7,4 +7,4 @@
 
 ## Preview
 
-![Alt text](Image/Covid-19App UI.png)
+![Alt text](https://github.com/Filzazarin/COVID-19_TRACKER_APP/blob/master/Image/Covid-19App%20UI.png)
