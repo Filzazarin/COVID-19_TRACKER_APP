@@ -5,4 +5,6 @@
 - This tracker is easy to use and shows the total number of confirmed cases in the country.
 - It also shows state-wise cases in a clean, easy to understand table.
 
+## Preview
 
+![Alt text](https://github.com/Filzazarin/COVID-19_TRACKER_APP/blob/master/Image/Covid-19App%20UI.png)
